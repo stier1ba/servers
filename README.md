@@ -532,6 +532,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Lazy Toggl MCP](https://github.com/movstox/lazy-toggl-mcp)** - Simple unofficial MCP server to track time via Toggl API
 - **[lean-lsp-mcp](https://github.com/oOo0oOo/lean-lsp-mcp)** - Interact with the [Lean theorem prover](https://lean-lang.org/) via the Language Server Protocol.
 - **[libvirt-mcp](https://github.com/MatiasVara/libvirt-mcp)** - Allows LLM to interact with libvirt thus enabling to create, destroy or list the Virtual Machines in a system.
+- **[LicenseSpring](https://github.com/stier1ba/licensespring-mcp)** - Comprehensive license management and customer operations for LicenseSpring API integration, supporting both License API and Management API with 31 total tools.
 - **[Lightdash](https://github.com/syucream/lightdash-mcp-server)** - Interact with [Lightdash](https://www.lightdash.com/), a BI tool.
 - **[LINE](https://github.com/amornpan/py-mcp-line)** (by amornpan) - Implementation for LINE Bot integration that enables Language Models to read and analyze LINE conversations through a standardized interface. Features asynchronous operation, comprehensive logging, webhook event handling, and support for various message types.
 - **[Linear](https://github.com/tacticlaunch/mcp-linear)** - Interact with Linear project management system.

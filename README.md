@@ -538,6 +538,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[Linear](https://github.com/jerhadf/linear-mcp-server)** - Allows LLM to interact with Linear's API for project management, including searching, creating, and updating issues.
 - **[Linear (Go)](https://github.com/geropl/linear-mcp-go)** - Allows LLM to interact with Linear's API via a single static binary.
 - **[Linear MCP](https://github.com/anoncam/linear-mcp)** - Full blown implementation of the Linear SDK to support comprehensive Linear management of projects, initiatives, issues, users, teams and states.
+- **[LicenseSpring](https://github.com/stier1ba/licensespring-mcp)** - Comprehensive license management and customer operations for LicenseSpring API integration, supporting both License API and Management API with 31 total tools.
 - **[LlamaCloud](https://github.com/run-llama/mcp-server-llamacloud)** (by marcusschiesser) - Integrate the data stored in a managed index on [LlamaCloud](https://cloud.llamaindex.ai/)
 - **[lldb-mcp](https://github.com/stass/lldb-mcp)** - A Model Context Protocol server for LLDB that provides LLM-driven debugging.
 - **[llm-context](https://github.com/cyberchitta/llm-context.py)** - Provides a repo-packing MCP tool with configurable profiles that specify file inclusion/exclusion patterns and optional prompts.
